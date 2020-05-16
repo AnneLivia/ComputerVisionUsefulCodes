@@ -4,7 +4,9 @@
 - Opencv 4.1.0
 - C++
 ### Files description
-- [ConvertExtension.cpp](https://github.com/AnneLivia/ComputerVisionUsefulCodes/blob/master/convertExtensions.cpp): this program converts images
+- [ConvertExtension.cpp](https://github.com/AnneLivia/ComputerVisionUsefulCodes/blob/master/source/convertExtensions.cpp): this program converts images
 of some original extension into another extension. It basically requires the directory where the files are, the original extension of the files, 
 and the desired extension, it then gets all the archives encountered that sastisfies the condition and saves in the same directory with the same 
 name as the original one.
+- [ResizeImage.cpp](https://github.com/AnneLivia/ComputerVisionUsefulCodes/blob/master/source/resizeImage.cpp): this program gets images from a specific file
+and resizes it to a given size.
