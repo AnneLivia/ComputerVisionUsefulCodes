@@ -11,3 +11,4 @@ name as the original one.
 - [ResizeImage.cpp](https://github.com/AnneLivia/ComputerVisionUsefulCodes/blob/master/source/resizeImages.cpp): this program gets images from a specific directory
 and resizes it to a given size.
 - [crop_image.cpp](https://github.com/AnneLivia/ComputerVisionUsefulCodes/blob/master/source/crop_image.cpp): this program gets images from a specific directory, detect some objects present on it and then saves. Useful when need to create a dataset containing the aimed object.
+- [convertAllToGray.cpp](https://github.com/AnneLivia/ComputerVisionUsefulCodes/blob/master/source/convertAllToGray.cpp): converts all images from a directory to gray.
