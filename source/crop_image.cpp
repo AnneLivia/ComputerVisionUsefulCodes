@@ -10,8 +10,8 @@ void save_detected(string dir, string filename, vector<Mat>& eyes);
 int main()
 {
     // directory where the images are
-    string dir = "C:\\Users\\annel\\Desktop\\EyeMovement\\Detect Eye\\real_and_fake_face\\training_real\\";
-    string save_dir = "C:\\Users\\annel\\Desktop\\EyeMovement\\Detect Eye\\real_and_fake_face\\eyes\\";
+    string dir = "C:\\Users\\annel\\Desktop\\training_real\\";
+    string save_dir = "C:\\Users\\annel\\Desktop\\eyes\\";
     // Mat to load images and convert to gray
     Mat image, gray;
 
