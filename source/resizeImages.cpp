@@ -6,7 +6,7 @@ using namespace std;
 using namespace cv;
 
 int main() {
-    string directory = "C:\\Users\\annel\\Desktop\\EyeMovement\\Detect Eye\\haar Training\\positive\\rawdata";
+    string directory = "C:\\Users\\annel\\Desktop\\positive";
 
     vector<string>files;
 
